@@ -1,0 +1,19 @@
+\select@language {french}
+\contentsline {section}{\numberline {I}\relax \fontsize {20.74}{25}\selectfont Hardware}{4}{section.1}
+\contentsline {subsection}{\numberline {I}\textit {\textbf {Qu\IeC {\textquoteright }est ce que l\IeC {\textquoteright }Arduino ?}}}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {II}\textit {\textbf {De quoi est compos\IeC {\'e}e cette bestiole?}}}{4}{subsection.1.2}
+\contentsline {subsection}{\numberline {III}\textit {\textbf {Mat\IeC {\'e}riel n\IeC {\'e}cessaire}}}{7}{subsection.1.3}
+\contentsline {section}{\numberline {II}\relax \fontsize {20.74}{25}\selectfont Software}{9}{section.2}
+\contentsline {subsection}{\numberline {I}\textit {\textbf {Logiciel Arduino}}}{9}{subsection.2.1}
+\contentsline {subsection}{\numberline {II}\textit {\textbf {Communication avec la carte}}}{11}{subsection.2.2}
+\contentsline {section}{\numberline {III}\relax \fontsize {20.74}{25}\selectfont Programmation}{15}{section.3}
+\contentsline {subsection}{\numberline {I}\textit {\textbf {Structure g\IeC {\'e}n\IeC {\'e}rale d\IeC {\textquoteright }un programme}}}{15}{subsection.3.1}
+\contentsline {subsection}{\numberline {II}\textit {\textbf {Fonctions propres \IeC {\`a} Arduino}}}{16}{subsection.3.2}
+\contentsline {subsection}{\numberline {III}\textit {\textbf {Fonctions math\IeC {\'e}matiques et trigonom\IeC {\'e}triques}}}{19}{subsection.3.3}
+\contentsline {subsection}{\numberline {IV}\textit {\textbf {Nombres al\IeC {\'e}atoires}}}{20}{subsection.3.4}
+\contentsline {subsection}{\numberline {V}\textit {\textbf {El\IeC {\'e}ments de syntaxe}}}{20}{subsection.3.5}
+\contentsline {subsection}{\numberline {VI}\textit {\textbf {Op\IeC {\'e}rateurs}}}{21}{subsection.3.6}
+\contentsline {subsection}{\numberline {VII}\textit {\textbf {Constantes}}}{22}{subsection.3.7}
+\contentsline {subsection}{\numberline {VIII}\textit {\textbf {Tableaux}}}{23}{subsection.3.8}
+\contentsline {subsection}{\numberline {IX}\textit {\textbf {Instructions de contr\IeC {\^o}le}}}{24}{subsection.3.9}
+\contentsline {subsection}{\numberline {X}\textit {\textbf {Biblioth\IeC {\`e}ques}}}{27}{subsection.3.10}
