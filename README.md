@@ -1,2 +1,2 @@
 # Learning
- Additional courses
+ Additional courses and exercices
